@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.payamdeveloper.persiankit.currency.PersianCurrencyTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-06-27T19:25:12.542Z" hostname="DESKTOP-P2LHC8B" time="0.077">
+  <properties/>
+  <testcase name="rialToToman divides by ten()" classname="io.github.payamdeveloper.persiankit.currency.PersianCurrencyTest" time="0.026"/>
+  <testcase name="tomanToRial multiplies by ten()" classname="io.github.payamdeveloper.persiankit.currency.PersianCurrencyTest" time="0.0"/>
+  <testcase name="formatRial appends unit with grouped digits()" classname="io.github.payamdeveloper.persiankit.currency.PersianCurrencyTest" time="0.027"/>
+  <testcase name="formatToman appends unit with grouped digits()" classname="io.github.payamdeveloper.persiankit.currency.PersianCurrencyTest" time="0.0"/>
+  <testcase name="formatToman compact form()" classname="io.github.payamdeveloper.persiankit.currency.PersianCurrencyTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

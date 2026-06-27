@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.payamdeveloper.persiankit.time.PersianRelativeTimeTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-06-27T19:25:12.637Z" hostname="DESKTOP-P2LHC8B" time="0.005">
+  <properties/>
+  <testcase name="yesterday()" classname="io.github.payamdeveloper.persiankit.time.PersianRelativeTimeTest" time="0.001"/>
+  <testcase name="future time()" classname="io.github.payamdeveloper.persiankit.time.PersianRelativeTimeTest" time="0.001"/>
+  <testcase name="just now()" classname="io.github.payamdeveloper.persiankit.time.PersianRelativeTimeTest" time="0.001"/>
+  <testcase name="hours ago()" classname="io.github.payamdeveloper.persiankit.time.PersianRelativeTimeTest" time="0.0"/>
+  <testcase name="minutes ago()" classname="io.github.payamdeveloper.persiankit.time.PersianRelativeTimeTest" time="0.001"/>
+  <testcase name="days ago()" classname="io.github.payamdeveloper.persiankit.time.PersianRelativeTimeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.payamdeveloper.persiankit.digits.PersianDigitsTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-06-27T19:25:12.621Z" hostname="DESKTOP-P2LHC8B" time="0.007">
+  <properties/>
+  <testcase name="toEnglish converts arabic-indic digits()" classname="io.github.payamdeveloper.persiankit.digits.PersianDigitsTest" time="0.001"/>
+  <testcase name="containsNonEnglishDigits detects persian digits()" classname="io.github.payamdeveloper.persiankit.digits.PersianDigitsTest" time="0.002"/>
+  <testcase name="round trip conversion is stable()" classname="io.github.payamdeveloper.persiankit.digits.PersianDigitsTest" time="0.001"/>
+  <testcase name="toEnglish converts persian digits()" classname="io.github.payamdeveloper.persiankit.digits.PersianDigitsTest" time="0.001"/>
+  <testcase name="toPersian converts arabic-indic digits too()" classname="io.github.payamdeveloper.persiankit.digits.PersianDigitsTest" time="0.0"/>
+  <testcase name="toPersian converts plain english digits()" classname="io.github.payamdeveloper.persiankit.digits.PersianDigitsTest" time="0.0"/>
+  <testcase name="toPersian leaves non-digit characters untouched()" classname="io.github.payamdeveloper.persiankit.digits.PersianDigitsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

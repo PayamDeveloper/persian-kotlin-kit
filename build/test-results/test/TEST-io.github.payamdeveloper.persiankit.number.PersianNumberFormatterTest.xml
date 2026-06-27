@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.payamdeveloper.persiankit.number.PersianNumberFormatterTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-06-27T19:25:12.629Z" hostname="DESKTOP-P2LHC8B" time="0.007">
+  <properties/>
+  <testcase name="formatCompact handles millions()" classname="io.github.payamdeveloper.persiankit.number.PersianNumberFormatterTest" time="0.001"/>
+  <testcase name="format without grouping()" classname="io.github.payamdeveloper.persiankit.number.PersianNumberFormatterTest" time="0.0"/>
+  <testcase name="format handles negative numbers()" classname="io.github.payamdeveloper.persiankit.number.PersianNumberFormatterTest" time="0.0"/>
+  <testcase name="format groups thousands with persian digits()" classname="io.github.payamdeveloper.persiankit.number.PersianNumberFormatterTest" time="0.001"/>
+  <testcase name="format without persian digits()" classname="io.github.payamdeveloper.persiankit.number.PersianNumberFormatterTest" time="0.001"/>
+  <testcase name="formatCompact handles billions()" classname="io.github.payamdeveloper.persiankit.number.PersianNumberFormatterTest" time="0.0"/>
+  <testcase name="formatCompact drops decimal when whole number()" classname="io.github.payamdeveloper.persiankit.number.PersianNumberFormatterTest" time="0.0"/>
+  <testcase name="format handles small numbers without separators()" classname="io.github.payamdeveloper.persiankit.number.PersianNumberFormatterTest" time="0.001"/>
+  <testcase name="formatCompact falls back to plain format under one thousand()" classname="io.github.payamdeveloper.persiankit.number.PersianNumberFormatterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

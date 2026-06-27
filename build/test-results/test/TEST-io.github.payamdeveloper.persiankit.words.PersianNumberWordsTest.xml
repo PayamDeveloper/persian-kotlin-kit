@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.payamdeveloper.persiankit.words.PersianNumberWordsTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2026-06-27T19:25:12.643Z" hostname="DESKTOP-P2LHC8B" time="0.026">
+  <properties/>
+  <testcase name="million boundary()" classname="io.github.payamdeveloper.persiankit.words.PersianNumberWordsTest" time="0.002"/>
+  <testcase name="full three digit group()" classname="io.github.payamdeveloper.persiankit.words.PersianNumberWordsTest" time="0.0"/>
+  <testcase name="full multi-group number()" classname="io.github.payamdeveloper.persiankit.words.PersianNumberWordsTest" time="0.001"/>
+  <testcase name="round hundred()" classname="io.github.payamdeveloper.persiankit.words.PersianNumberWordsTest" time="0.0"/>
+  <testcase name="tens and ones combined()" classname="io.github.payamdeveloper.persiankit.words.PersianNumberWordsTest" time="0.0"/>
+  <testcase name="thousand boundary()" classname="io.github.payamdeveloper.persiankit.words.PersianNumberWordsTest" time="0.0"/>
+  <testcase name="round tens()" classname="io.github.payamdeveloper.persiankit.words.PersianNumberWordsTest" time="0.0"/>
+  <testcase name="negative number()" classname="io.github.payamdeveloper.persiankit.words.PersianNumberWordsTest" time="0.0"/>
+  <testcase name="zero()" classname="io.github.payamdeveloper.persiankit.words.PersianNumberWordsTest" time="0.001"/>
+  <testcase name="teens()" classname="io.github.payamdeveloper.persiankit.words.PersianNumberWordsTest" time="0.0"/>
+  <testcase name="hundred with teen remainder()" classname="io.github.payamdeveloper.persiankit.words.PersianNumberWordsTest" time="0.0"/>
+  <testcase name="negative multi-digit number()" classname="io.github.payamdeveloper.persiankit.words.PersianNumberWordsTest" time="0.0"/>
+  <testcase name="single digits()" classname="io.github.payamdeveloper.persiankit.words.PersianNumberWordsTest" time="0.0"/>
+  <testcase name="million with skipped zero groups()" classname="io.github.payamdeveloper.persiankit.words.PersianNumberWordsTest" time="0.0"/>
+  <testcase name="throws for Long MIN_VALUE()" classname="io.github.payamdeveloper.persiankit.words.PersianNumberWordsTest" time="0.015"/>
+  <testcase name="thousands with remainder()" classname="io.github.payamdeveloper.persiankit.words.PersianNumberWordsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
